@@ -23,7 +23,7 @@ The data set contains Big Mart sales data for 2013 covering 10 stores with varia
 1. **Importing Relevant Libraries**
 The necessary libraries, such as pandas, numpy, seaborn, and scikit-learn, are imported to facilitate data manipulation, visualization, and machine learning model development.
 """
-
+import sklearn
 from sklearn.preprocessing import OneHotEncoder
 import pandas as pd
 import numpy as np
